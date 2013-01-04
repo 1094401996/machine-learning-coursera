@@ -2,12 +2,16 @@ machine-learning-coursera
 =========================
 Coursera machine learning course resources.
 
+# Text book:
+Bayesian Reasoning and Machine Learning
+http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
+
 # Video lectures:
 https://class.coursera.org/ml/lecture/preview
 
 # Schedule:
 ## Week 1 - Due 01/06:
-- Introduction
+X Introduction
 - Linear regression with one variable
 - Linear Algebra review (Optional)
 
