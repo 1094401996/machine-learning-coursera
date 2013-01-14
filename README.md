@@ -12,8 +12,8 @@ https://class.coursera.org/ml/lecture/preview
 # Schedule:
 ## Week 1 - Due 01/06:
 X Introduction
-- Linear regression with one variable
-- Linear Algebra review (Optional)
+X Linear regression with one variable
+X Linear Algebra review (Optional)
 
 ## Week 2 - Due 01/13:
 - Linear regression with multiple variables
