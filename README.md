@@ -16,7 +16,7 @@ X Linear regression with one variable
 X Linear Algebra review (Optional)
 
 ## Week 2 - Due 01/13:
-- Linear regression with multiple variables
+X Linear regression with multiple variables
 - Octave tutorial
 - Programming Exercise 1: Linear Regression
 
